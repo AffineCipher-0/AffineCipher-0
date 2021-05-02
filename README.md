@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @
+- 👋 Hi, I’m @Prataka
 - 👀 I’m interested in Security Engineer and Network Engineer
 - 🌱 I’m currently learning PYTHON, JavaScript .
 
