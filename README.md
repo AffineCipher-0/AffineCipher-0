@@ -1,6 +1,6 @@
 - 👋 Hi, My Name Is
 - 👀 I’m interested in DevOps Engineer, Network Security
-- 🌱 I’m currently learning PYTHON, C, C++, JavaScript, HTML, CSS.
+- 🌱 I’m currently learning..........
 
 
 
