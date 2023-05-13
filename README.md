@@ -4,4 +4,5 @@
 
 
 
-Just a script kiddie, who is learning python or other programming language. 
+Learn and analyze a thing.... 
+Study and learn to make a lot of things.......
