@@ -1,3 +1,3 @@
 - 👋 Hi, My Name Is
 - 👀 I’m interested in DevOps Engineer, Network Security
-- 🌱 I’m currently learning & need more study
+- 🌱 I’m currently learning & need more learning
