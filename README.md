@@ -5,6 +5,3 @@
 - 🌱 I’m currently learning & need more learning
 
 
-Per scrutinium et rationem, ad lucem veritatis pervenimus.
-
-
