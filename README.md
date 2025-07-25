@@ -17,4 +17,4 @@
 
 
 
-“Semakin saya belajar, semakin saya sadar bahwa saya belum tahu banyak.”
+
