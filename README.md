@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning & need more learning
 
-- 🧠 "I’ve been learning non-stop, yet somehow I still don’t know anything... but sure, go ahead, tell me how apt-get install makes you a hacker."
+- 🧠 I’ve been learning non-stop, yet somehow I still don’t know anything... but sure, go ahead, tell me how apt-get install makes you a hacker.
 
 
 
