@@ -6,7 +6,7 @@
 # Hi there, I'm Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
- ** <i>“Please don’t see just a boy caught up in dreams and fantasies...”</i>**"We are all lost stars, trying to light up the dark." ✨ <i>“Please don’t see just a boy caught up in dreams and fantasies...”</i>
+"We are all lost stars, trying to light up the dark." ✨
 — Lost Stars by Adam Levine
 
 "Simplicity is the soul of efficiency."
