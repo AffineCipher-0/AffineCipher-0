@@ -4,7 +4,7 @@
 
 # Hi there, I'm Gatot Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[cite_start]Saya adalah lulusan baru berpredikat Cumlaude (IPK 3.83) dari Universitas Amikom Yogyakarta, dengan keahlian di bidang Jaringan (Cisco CCNA), pengembangan IoT dan AI, serta manajemen database (SQL)[cite: 6]. [cite_start]Saya bersemangat untuk menerapkan keterampilan teknis saya guna mendorong digitalisasi dan efisiensi operasional di industri[cite: 8].
+Saya adalah lulusan baru berpredikat Cumlaude (IPK 3.83) dari Universitas Amikom Yogyakarta, dengan keahlian di bidang Jaringan (Cisco CCNA), pengembangan IoT dan AI, serta manajemen database (SQL). Saya bersemangat untuk menerapkan keterampilan teknis saya guna mendorong digitalisasi dan efisiensi operasional di industri.
 
 ## 📬 Hubungi Saya
 <p align="left">
@@ -20,11 +20,11 @@
   </a>
 </p>
 
-* [cite_start]**Pemrograman Web:** JavaScript, HTML, CSS[cite: 10].
-* [cite_start]**Mikrokontroler dan IoT:** Arduino, NodeMCU, ESP32, Alat Sensor, Raspberry Pi[cite: 10].
-* [cite_start]**Manajemen Data:** Microsoft Office, Google Workspace[cite: 11].
-* [cite_start]**Desain Database:** SQL, Desain ERD[cite: 12].
-* [cite_start]**Jaringan:** Cisco CCNA Security Fundamentals[cite: 13].
+* **Pemrograman Web:** JavaScript, HTML, CSS.
+* **Mikrokontroler dan IoT:** Arduino, NodeMCU, ESP32, Alat Sensor, Raspberry Pi.
+* **Manajemen Data:** Microsoft Office, Google Workspace.
+* **Desain Database:** SQL, Desain ERD.
+* **Jaringan:** Cisco CCNA Security Fundamentals.
 
 ## 🏆 GitHub Trophies & Stats
 
@@ -55,13 +55,13 @@
 ## 📝 Other Projects
 
 ### **Scientific Journal Author** (Nov 2022)
--   [cite_start]Merancang dan membangun **"Alat Penerjemah Sandi Morse Berbasis Mikrokontroller"** yang dipublikasikan di Information System Journal (INFOS)[cite: 36].
--   [cite_start]Mengimplementasikan algoritma Brute Force untuk pencocokan, mencapai **akurasi 100%** dalam pengujian[cite: 37].
+-   Merancang dan membangun **"Alat Penerjemah Sandi Morse Berbasis Mikrokontroller"** yang dipublikasikan di Information System Journal (INFOS).
+-   Mengimplementasikan algoritma Brute Force untuk pencocokan, mencapai **akurasi 100%** dalam pengujian.
 
 ### **E-commerce Website Project Lead** (Jan 2022)
--   [cite_start]Memimpin tim membangun aplikasi e-commerce menggunakan **PHP** untuk backend dan **CSS/JavaScript** untuk frontend[cite: 39].
--   [cite_start]Mengembangkan fungsionalitas lengkap untuk pengguna dan panel admin[cite: 43].
+-   Memimpin tim membangun aplikasi e-commerce menggunakan **PHP** untuk backend dan **CSS/JavaScript** untuk frontend.
+-   Mengembangkan fungsionalitas lengkap untuk pengguna dan panel admin.
 
 ### **Greenhouse Automation Project** (Jan 2022)
--   [cite_start]Menyusun dokumen **Software Requirement Specification (SRS)** dan merancang arsitektur sistem menggunakan diagram UML[cite: 45].
--   [cite_start]Mendesain UI/UX untuk aplikasi smartphone guna melakukan monitoring dan kontrol sensor IoT secara real-time[cite: 46].
+-   Menyusun dokumen **Software Requirement Specification (SRS)** dan merancang arsitektur sistem menggunakan diagram UML.
+-   Mendesain UI/UX untuk aplikasi smartphone guna melakukan monitoring dan kontrol sensor IoT secara real-time.
