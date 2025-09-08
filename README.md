@@ -1,16 +1,14 @@
 <p align="center">
-  <img src="https://i.imgur.com/Q28jD2G.gif" width="100%"/>
+  <img src="https://i.pinimg.com/originals/b9/e2/2e/b9e22e430f86214371b3988f3586027a.gif" width="100%"/>
 </p>
 
 # Hi there, I'm Gatot Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Saya adalah lulusan baru berpredikat Cumlaude (IPK 3.83) dari Universitas Amikom Yogyakarta, dengan keahlian di bidang Jaringan (Cisco CCNA), pengembangan IoT dan AI, serta manajemen database (SQL). Saya bersemangat untuk menerapkan keterampilan teknis saya guna mendorong digitalisasi dan efisiensi operasional di industri.
+<a href="https://linkedin.com/in/Sasangka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:sasangkagatot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-## 📬 Hubungi Saya
-<p align="left">
-<a href="https://linkedin.com/in/Sasangka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gatot Sasangka" height="30" width="40" /></a>
-<a href="mailto:sasangkagatot@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sasangkagatot@gmail.com" height="30" width="40" /></a>
-</p>
+[cite_start]Saya adalah lulusan baru berpredikat Cumlaude (IPK 3.83) dari Universitas Amikom Yogyakarta [cite: 22, 26][cite_start], dengan keahlian di bidang Jaringan (Cisco CCNA), pengembangan IoT dan AI, serta manajemen database (SQL)[cite: 6]. [cite_start]Saya bersemangat untuk menerapkan keterampilan teknis saya guna mendorong digitalisasi dan efisiensi operasional di industri[cite: 8].
 
 ## 🔧 Skills & Competencies
 
@@ -20,48 +18,37 @@ Saya adalah lulusan baru berpredikat Cumlaude (IPK 3.83) dari Universitas Amikom
   </a>
 </p>
 
-* **Pemrograman Web:** JavaScript, HTML, CSS.
-* **Mikrokontroler dan IoT:** Arduino, NodeMCU, ESP32, Alat Sensor, Raspberry Pi.
-* **Manajemen Data:** Microsoft Office, Google Workspace.
-* **Desain Database:** SQL, Desain ERD.
-* **Jaringan:** Cisco CCNA Security Fundamentals.
+* [cite_start]**Web Programming:** JavaScript, HTML, CSS[cite: 10].
+* [cite_start]**Microcontroller and IoT:** Arduino, NodeMCU, ESP32, Sensor Tools, Raspberry Pi[cite: 10].
+* [cite_start]**Database Design:** SQL, ERD Design[cite: 12].
+* [cite_start]**Networking:** Cisco CCNA Security Fundamentals[cite: 13].
 
-## 🏆 GitHub Trophies & Stats
+## 📊 GitHub Stats
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AffineCipher-0&theme=tokyonight&column=7"/>
-  </a>
-</p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AffineCipher-0&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AffineCipher-0&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffineCipher-0&layout=compact&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffineCipher-0&layout=compact&theme=radical" />
   </a>
 </p>
 
-## 🚀 Featured Repositories
-<p align="center">
-  <a href="https://github.com/AffineCipher-0/E-commerce">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AffineCipher-0&repo=E-commerce&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/AffineCipher-0/morse-code-translator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AffineCipher-0&repo=morse-code-translator&theme=tokyonight" />
-  </a>
-</p>
+## 🚀 Projects
 
-## 📝 Other Projects
+### [cite_start]**Scientific Journal Author** (Nov 2022) [cite: 35]
+-   [cite_start]Merancang dan membangun **"Alat Penerjemah Sandi Morse Berbasis Mikrokontroller"** yang dipublikasikan di Information System Journal (INFOS)[cite: 36].
+-   [cite_start]Mengimplementasikan algoritma Brute Force untuk pencocokan, mencapai **akurasi 100%** dalam pengujian[cite: 37].
 
-### **Scientific Journal Author** (Nov 2022)
--   Merancang dan membangun **"Alat Penerjemah Sandi Morse Berbasis Mikrokontroller"** yang dipublikasikan di Information System Journal (INFOS).
--   Mengimplementasikan algoritma Brute Force untuk pencocokan, mencapai **akurasi 100%** dalam pengujian.
+### [cite_start]**E-commerce Website Project Lead** (Jan 2022) [cite: 38]
+-   [cite_start]Memimpin tim membangun aplikasi e-commerce menggunakan **PHP** untuk backend dan **CSS/JavaScript** untuk frontend[cite: 39].
+-   [cite_start]Mengembangkan fungsionalitas lengkap untuk pengguna dan panel admin[cite: 43].
 
-### **E-commerce Website Project Lead** (Jan 2022)
--   Memimpin tim membangun aplikasi e-commerce menggunakan **PHP** untuk backend dan **CSS/JavaScript** untuk frontend.
--   Mengembangkan fungsionalitas lengkap untuk pengguna dan panel admin.
+---
 
-### **Greenhouse Automation Project** (Jan 2022)
--   Menyusun dokumen **Software Requirement Specification (SRS)** dan merancang arsitektur sistem menggunakan diagram UML.
--   Mendesain UI/UX untuk aplikasi smartphone guna melakukan monitoring dan kontrol sensor IoT secara real-time.
+### **Bagaimana Jika Anda Tetap Ingin Menggunakan Kode Asli?**
+
+Jika Anda sangat menyukai kode interaktif tersebut dan ingin menunjukkannya, cara yang tepat adalah:
+1.  **Gunakan CodePen:** Buka situs **CodePen.io**, buat proyek baru, lalu salin-tempel kode Haml dan SCSS Anda di sana. Situs itu akan menjalankannya sebagai halaman web.
+2.  **Tautkan dari GitHub:** Setelah itu, Anda bisa menambahkan tautan (link) di profil GitHub Anda yang mengarah ke proyek CodePen tersebut. Contohnya, tambahkan baris ini di README Anda:
+    `[Lihat Animasi Tata Surya Interaktif Buatan Saya](https://codepen.io/your-username/pen/your-project-url)`
