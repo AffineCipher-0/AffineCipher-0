@@ -67,7 +67,7 @@ Authored the Software Requirement Specification (SRS) document and designed the 
 Designed the functionality and user interface (UI) for a smartphone application to monitor and control IoT sensors in real-time. 
 
 
-Car Sales Case Study Project (Apr 2021) 
+Car Case Study Project (Apr 2021) 
 
 Analyzed the weaknesses of a conventional system using the PIECES framework to identify security and efficiency issues. 
 
