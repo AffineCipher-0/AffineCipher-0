@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-### <p align="center">🔧 **Skills & Competencies**</p>
+🔧 ***Skills & Competencies***
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-📊 GitHub Stats
+📊 ***GitHub Stats***
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
