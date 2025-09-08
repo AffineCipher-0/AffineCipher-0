@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/AffineCipher-0/AffineCipher-0/main/mygif.gif" width="50%"/>
 </p>
 <p align="center">
+“Please don’t see just a boy caught up in dreams and fantasies...”
 "We are all lost stars, trying to light up the dark." ✨
 — Lost Stars by Adam Levine
 </p>
