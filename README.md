@@ -6,7 +6,14 @@
 # Hi there, I'm Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <i>“Please don’t see just a boy caught up in dreams and fantasies...”</i>
+ ** <i>“Please don’t see just a boy caught up in dreams and fantasies...”</i>**"We are all lost stars, trying to light up the dark." ✨ <i>“Please don’t see just a boy caught up in dreams and fantasies...”</i>
+— Lost Stars by Adam Levine
+
+"Simplicity is the soul of efficiency."
+— Austin Freeman
+
+"Programs must be written for people to read, and only incidentally for machines to execute."
+— Harold Abelson
 </p>
 
 <a href="https://linkedin.com/in/Sasangka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -28,10 +35,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-* **Web Programming:** JavaScript, HTML, CSS.
-* **Microcontroller and IoT:** Arduino, NodeMCU, ESP32, Sensor Tools, Raspberry Pi.
-* **Database Design:** SQL, ERD Design.
-* **Networking:** Cisco CCNA Security Fundamentals.
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -42,10 +45,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffineCipher-0&layout=compact&theme=radical" />
 </a>
 </p>
-
-## 💡 Soft Skills
-
-* **Manajemen Strategik**
-* **Kepemimpinan**
-* **Metodologi Penelitian**
-* **Etika Profesi**
