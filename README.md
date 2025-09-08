@@ -8,10 +8,12 @@
 <p align="center">
 "We are all lost stars, trying to light up the dark." ✨
 — Lost Stars by Adam Levine
-
+</p>
+<p align="center">
 "Simplicity is the soul of efficiency."
 — Austin Freeman
-
+</p>
+<p align="center">
 "Programs must be written for people to read, and only incidentally for machines to execute."
 — Harold Abelson
 </p>
