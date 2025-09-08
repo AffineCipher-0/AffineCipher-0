@@ -5,10 +5,9 @@
 <a href="https://linkedin.com/in/Sasangka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
 <a href="mailto:sasangkagatot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<p>
-
 <img src="https://raw.githubusercontent.com/AffineCipher-0/AffineCipher-0/main/mygif.gif" width="50%"/>
 </p>
+
 <p align="center">
   <i>"Please don’t see just a boy caught up in dreams and fantasies..."<br>
   "We are all lost stars, trying to light up the dark." ✨</i><br>
