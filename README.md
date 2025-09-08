@@ -1,5 +1,5 @@
 <p align="center">
-![ezgif-2622e2cd68ba27](https://github.com/user-attachments/assets/08c9c14c-a5bb-44ee-9a35-e4eed146f59d)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 </p>
 
 
