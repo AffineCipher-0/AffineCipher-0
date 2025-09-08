@@ -11,8 +11,6 @@
   <i>“Please don’t see just a boy caught up in dreams and fantasies...”</i>
 </p>
 
-Saya adalah lulusan baru berpredikat Cum Laude (IPK 3.83) dari Universitas Amikom Yogyakarta, dengan keahlian di bidang Jaringan (Cisco CCNA), pengembangan IoT dan AI, serta manajemen database (SQL). Saya bersemangat untuk menerapkan keterampilan teknis saya guna mendorong digitalisasi dan efisiensi operasional di industri.
-
 ## 🔧 Skills & Competencies
 <p align="left">
 <a href="https://skillicons.dev">
