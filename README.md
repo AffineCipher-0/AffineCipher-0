@@ -1,9 +1,7 @@
+# Hi there, I'm Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <p align="center">
 <img src="https://raw.githubusercontent.com/AffineCipher-0/AffineCipher-0/main/mygif.gif" width="50%"/>
 </p>
-
-# Hi there, I'm Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
 <p align="center">
 "We are all lost stars, trying to light up the dark." ✨
 — Lost Stars by Adam Levine
