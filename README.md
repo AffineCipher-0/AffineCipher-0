@@ -14,11 +14,6 @@ Saya adalah lulusan baru berpredikat Cumlaude (IPK 3.83) dari Universitas Amikom
   </a>
 </p>
 
-* **Web Programming:** JavaScript, HTML, CSS.
-* **Microcontroller and IoT:** Arduino, NodeMCU, ESP32, Sensor Tools, Raspberry Pi.
-* **Database Design:** SQL, ERD Design.
-* **Networking:** Cisco CCNA Security Fundamentals.
-
 ## 📊 GitHub Stats
 
 <p align="center">
