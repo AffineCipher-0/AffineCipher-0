@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<font color="blue">🔧 Skills & Competencies</font>
+<span style="color:#FFD700; font-size:18px;">🔧 Skills & Competencies</span>
 </p>
 
 <p align="center">
