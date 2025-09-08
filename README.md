@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif" width="100%"/>
-</p>
-
 # Hi there, I'm Gatot Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <a href="https://linkedin.com/in/Sasangka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -26,9 +22,6 @@ Saya adalah lulusan baru berpredikat Cumlaude (IPK 3.83) dari Universitas Amikom
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AffineCipher-0&show_icons=true&theme=radical" />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffineCipher-0&layout=compact&theme=radical" />
   </a>
