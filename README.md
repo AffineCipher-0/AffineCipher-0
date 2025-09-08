@@ -1,74 +1,62 @@
-Hi there,
+Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <a href="https://linkedin.com/in/Sasangka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  
 <a href="mailto:sasangkagatot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-I am a recent Cum Laude graduate with a Bachelor of Science in Informatics from Amikom Yogyakarta University, holding a GPA of 3.83. My expertise lies in Networking (Cisco CCNA), IoT and AI development, and database management (SQL). I have a solid portfolio that includes designing remote monitoring systems and have successfully published research on microcontrollers. I am eager to apply my technical skills to drive digitalization and enhance operational efficiency in the industry. 
+Saya adalah lulusan baru berpredikat Cum Laude (IPK 3.83) dari Universitas Amikom Yogyakarta , dengan keahlian di bidang Jaringan (Cisco CCNA), pengembangan IoT dan AI, serta manajemen database (SQL). Saya bersemangat untuk menerapkan keterampilan teknis saya guna mendorong digitalisasi dan efisiensi operasional di industri.
 
 
 
 
-
-🔧 Skills and Competencies
-
-Web Programming: JavaScript, HTML, CSS 
-
-
-Microcontroller and IoT: Arduino, NodeMCU, ESP32, Sensor Tools, Raspberry Pi 
-
-
-Data Management and Administration: Microsoft Office, Google Workspace 
+🔧 Skills & Competencies
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,arduino,raspberrypi,cisco,git" />
+</a>
+</p>
 
 
-Database Design: SQL, ERD Design 
+Web Programming: JavaScript, HTML, CSS.
 
 
-Networking: Cisco CCNA Security Fundamentals 
-
-🏆 Certifications and Training
-
-Digital Literacy, Kemkominfo (Apr 2023) 
+Microcontroller and IoT: Arduino, NodeMCU, ESP32, Sensor Tools, Raspberry Pi.
 
 
-Webinar: Survey & Quantitative Data Processing for International Publication, XREI Institute (Mar 2023) 
+Database Design: SQL, ERD Design.
 
 
-Seminar on Cyber Security, HIMATEKNO FTTI UNJAYA (Mar 2023) 
+Networking: Cisco CCNA Security Fundamentals.
 
-
-CCNA Security, Cisco Networking Academy (Sep 2022) 
-
-
-Fundamental Python, Progate (Sep 2021) 
-
-
-IT Essentials, Cisco Networking Academy (Aug 2020) 
+📊 GitHub Stats
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AffineCipher-0&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffineCipher-0&layout=compact&theme=radical" />
+</a>
+</p>
 
 🚀 Projects
+Scientific Journal Author (Nov 2022)
+Merancang dan membangun 
 
-Scientific Journal Author (Nov 2022) 
+"Alat Penerjemah Sandi Morse Berbasis Mikrokontroller" yang dipublikasikan di Information System Journal (INFOS).
 
-Designed and built a "Morse Code Translator Device Based on Microcontroller Using Brute Force Algorithm" which was published in the Information System Journal (INFOS), Vol. 5, No. 2. 
+Mengimplementasikan algoritma Brute Force untuk pencocokan, mencapai 
 
-Implemented a Brute Force algorithm for matching, achieving 100% accuracy in testing. 
+akurasi 100% dalam pengujian.
 
+E-commerce Website Project Lead (Jan 2022)
+Memimpin tim membangun aplikasi e-commerce menggunakan 
 
-E-commerce Website Project Lead (Jan 2022) 
+PHP untuk backend dan CSS/JavaScript untuk frontend.
 
-Led a team of three to build an e-commerce application using PHP for the backend and CSS/JavaScript for the frontend. 
+Mengembangkan fungsionalitas lengkap untuk pengguna dan panel admin.
 
-Developed full functionality for users (registration, login, shopping cart, payment) and an admin panel (product, user, and order management). 
+Greenhouse Automation Project (Jan 2022)
+Menyusun dokumen 
 
+Software Requirement Specification (SRS) dan merancang arsitektur sistem menggunakan diagram UML.
 
-Greenhouse Automation Project (Jan 2022) 
-
-Authored the Software Requirement Specification (SRS) document and designed the complete system architecture using UML diagrams (Use Case, Class, Sequence, Activity). 
-
-Designed the functionality and user interface (UI) for a smartphone application to monitor and control IoT sensors in real-time. 
-
-
-Car Case Study Project (Apr 2021) 
-
-Analyzed the weaknesses of a conventional system using the PIECES framework to identify security and efficiency issues. 
-
-Designed a new workflow and recommended digital solutions to improve system transparency, performance, and efficiency. 
+Mendesain UI/UX untuk aplikasi smartphone guna melakukan monitoring dan kontrol sensor IoT secara real-time.
