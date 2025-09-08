@@ -1,65 +1,74 @@
-<!--
-Halo! Anda bisa mengedit file ini untuk menyesuaikannya dengan diri Anda.
-Ganti semua teks di dalam kurung siku [...] dengan informasi Anda.
-Misalnya, ganti [Nama Anda] dengan nama asli Anda.
--->
+Hi there,
+<a href="https://linkedin.com/in/Sasangka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ 
+<a href="mailto:sasangkagatot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-<div align="center">
+I am a recent Cum Laude graduate with a Bachelor of Science in Informatics from Amikom Yogyakarta University, holding a GPA of 3.83. My expertise lies in Networking (Cisco CCNA), IoT and AI development, and database management (SQL). I have a solid portfolio that includes designing remote monitoring systems and have successfully published research on microcontrollers. I am eager to apply my technical skills to drive digitalization and enhance operational efficiency in the industry. 
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9hFsxmaQVTGz/giphy.gif" width="100" />
 
-<h1 align="center">
-👋 Halo, saya [Nama Anda]!
-</h1>
 
-<h3 align="center">
-Seorang [Jabatan Anda, misal: Pengembang Perangkat Lunak] dari Indonesia yang bersemangat mengubah ide menjadi kenyataan.
-</h3>
 
-</div>
 
-👨‍💻 Tentang Saya
-🔭 Saat ini, saya sedang mengerjakan proyek pribadi yang berfokus pada [Sebutkan Teknologi atau Topik].
+🔧 Skills and Competencies
 
-🌱 Saya sedang mendalami dunia [Teknologi/Bidang yang Sedang Dipelajari].
+Web Programming: JavaScript, HTML, CSS 
 
-💡 Saya tertarik dengan teknologi, desain, dan inovasi yang dapat memecahkan masalah di dunia nyata.
 
-👯 Saya terbuka untuk berkolaborasi dalam proyek open-source yang menarik.
+Microcontroller and IoT: Arduino, NodeMCU, ESP32, Sensor Tools, Raspberry Pi 
 
-💬 Tanya saya tentang apa pun yang berhubungan dengan JavaScript, React, atau Desain Produk.
 
-📫 Anda bisa menghubungi saya melalui email di [email.anda@contoh.com].
+Data Management and Administration: Microsoft Office, Google Workspace 
 
-⚡ Fakta unik: Saya percaya secangkir kopi yang enak dapat menyelesaikan bug apa pun! ☕
 
-🛠️ Bahasa & Alat yang Saya Gunakan
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,tailwind,figma,git,vscode,postman%26perline%3D5" />
-</a>
-</p>
+Database Design: SQL, ERD Design 
 
-📊 Statistik GitHub Saya
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=[Username GitHub Anda]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistik GitHub [Nama Anda]" />
-</a>
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[Username GitHub Anda]&layout=compact&langs_count=8&theme=tokyonight" alt="Bahasa Teratas" />
-</a>
-</p>
 
-🌐 Mari Terhubung
-<p align="center">
-<a href="[Link Portofolio Anda]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portofolio-0A66C2.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddev.to%26logoColor%3Dwhite" alt="portfolio"/>
-</a>
-<a href="[Link LinkedIn Anda]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2.svg%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite" alt="linkedin"/>
-</a>
-<a href="[Link Twitter/X Anda]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2.svg%3Fstyle%3Dfor-the-badge%26logo%3DTwitter%26logoColor%3Dwhite" alt="twitter"/>
-</a>
-</p>
+Networking: Cisco CCNA Security Fundamentals 
+
+🏆 Certifications and Training
+
+Digital Literacy, Kemkominfo (Apr 2023) 
+
+
+Webinar: Survey & Quantitative Data Processing for International Publication, XREI Institute (Mar 2023) 
+
+
+Seminar on Cyber Security, HIMATEKNO FTTI UNJAYA (Mar 2023) 
+
+
+CCNA Security, Cisco Networking Academy (Sep 2022) 
+
+
+Fundamental Python, Progate (Sep 2021) 
+
+
+IT Essentials, Cisco Networking Academy (Aug 2020) 
+
+🚀 Projects
+
+Scientific Journal Author (Nov 2022) 
+
+Designed and built a "Morse Code Translator Device Based on Microcontroller Using Brute Force Algorithm" which was published in the Information System Journal (INFOS), Vol. 5, No. 2. 
+
+Implemented a Brute Force algorithm for matching, achieving 100% accuracy in testing. 
+
+
+E-commerce Website Project Lead (Jan 2022) 
+
+Led a team of three to build an e-commerce application using PHP for the backend and CSS/JavaScript for the frontend. 
+
+Developed full functionality for users (registration, login, shopping cart, payment) and an admin panel (product, user, and order management). 
+
+
+Greenhouse Automation Project (Jan 2022) 
+
+Authored the Software Requirement Specification (SRS) document and designed the complete system architecture using UML diagrams (Use Case, Class, Sequence, Activity). 
+
+Designed the functionality and user interface (UI) for a smartphone application to monitor and control IoT sensors in real-time. 
+
+
+Car Sales Case Study Project (Apr 2021) 
+
+Analyzed the weaknesses of a conventional system using the PIECES framework to identify security and efficiency issues. 
+
+Designed a new workflow and recommended digital solutions to improve system transparency, performance, and efficiency. 
