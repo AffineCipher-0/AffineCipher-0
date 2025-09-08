@@ -39,10 +39,7 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AffineCipher-0&show_icons=true&theme=radical" />
-</a>
+<p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffineCipher-0&layout=compact&theme=radical" />
 </a>
