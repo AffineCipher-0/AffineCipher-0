@@ -4,11 +4,13 @@
 
 # Hi there, I'm Gatot Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<a href="https://linkedin.com/in/Sasangka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:sasangkagatot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
 [cite_start]Saya adalah lulusan baru berpredikat Cumlaude (IPK 3.83) dari Universitas Amikom Yogyakarta, dengan keahlian di bidang Jaringan (Cisco CCNA), pengembangan IoT dan AI, serta manajemen database (SQL)[cite: 6]. [cite_start]Saya bersemangat untuk menerapkan keterampilan teknis saya guna mendorong digitalisasi dan efisiensi operasional di industri[cite: 8].
+
+## 📬 Hubungi Saya
+<p align="left">
+<a href="https://linkedin.com/in/Sasangka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gatot Sasangka" height="30" width="40" /></a>
+<a href="mailto:sasangkagatot@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sasangkagatot@gmail.com" height="30" width="40" /></a>
+</p>
 
 ## 🔧 Skills & Competencies
 
@@ -18,13 +20,19 @@
   </a>
 </p>
 
-* [cite_start]**Web Programming:** JavaScript, HTML, CSS[cite: 10].
-* [cite_start]**Microcontroller and IoT:** Arduino, NodeMCU, ESP32, Sensor Tools, Raspberry Pi[cite: 10].
-* [cite_start]**Database Design:** SQL, ERD Design[cite: 12].
-* [cite_start]**Networking:** Cisco CCNA Security Fundamentals[cite: 13].
+* [cite_start]**Pemrograman Web:** JavaScript, HTML, CSS[cite: 10].
+* [cite_start]**Mikrokontroler dan IoT:** Arduino, NodeMCU, ESP32, Alat Sensor, Raspberry Pi[cite: 10].
+* [cite_start]**Manajemen Data:** Microsoft Office, Google Workspace[cite: 11].
+* [cite_start]**Desain Database:** SQL, Desain ERD[cite: 12].
+* [cite_start]**Jaringan:** Cisco CCNA Security Fundamentals[cite: 13].
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies & Stats
 
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AffineCipher-0&theme=radical&column=7"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AffineCipher-0&show_icons=true&theme=radical" />
