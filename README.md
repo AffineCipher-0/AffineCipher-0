@@ -2,7 +2,9 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p0eWYwZWV2b3Vnc2I4ZHY1dmY5bjluaDl1N2M1cHBjcGtic3o3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSdR07k272G1Z6/giphy.gif" width="100%"/>
 </p>
 
-Hi there, I'm Gatot Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Hi there, I'm Sasangka 
+<p></p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <a href="https://linkedin.com/in/Sasangka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  
 <a href="mailto:sasangkagatot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
