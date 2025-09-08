@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency."</i><br><br>
+  <i>"Simplicity is the soul of efficiency."</i><br>
  <b>Austin Freeman</b>
 </p>
 
