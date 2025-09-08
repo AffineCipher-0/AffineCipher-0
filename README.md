@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b9/e2/2e/b9e22e430f86214371b3988f3586027a.gif" width="100%"/>
-</p>
-
-# Hi there, I'm Gatot Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there, I'm Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <a href="https://linkedin.com/in/Sasangka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
@@ -27,9 +23,6 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AffineCipher-0&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffineCipher-0&layout=compact&theme=radical" />
   </a>
 </p>
@@ -46,9 +39,3 @@
 
 ---
 
-### **Bagaimana Jika Anda Tetap Ingin Menggunakan Kode Asli?**
-
-Jika Anda sangat menyukai kode interaktif tersebut dan ingin menunjukkannya, cara yang tepat adalah:
-1.  **Gunakan CodePen:** Buka situs **CodePen.io**, buat proyek baru, lalu salin-tempel kode Haml dan SCSS Anda di sana. Situs itu akan menjalankannya sebagai halaman web.
-2.  **Tautkan dari GitHub:** Setelah itu, Anda bisa menambahkan tautan (link) di profil GitHub Anda yang mengarah ke proyek CodePen tersebut. Contohnya, tambahkan baris ini di README Anda:
-    `[Lihat Animasi Tata Surya Interaktif Buatan Saya](https://codepen.io/your-username/pen/your-project-url)`
