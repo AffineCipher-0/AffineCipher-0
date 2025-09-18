@@ -1,10 +1,6 @@
 <p align="center">
   Hi there, I'm Sasangka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </p>
-    
-<p align="center">
-<a href="mailto:sasangkagatot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/AffineCipher-0/AffineCipher-0/main/mygif.gif" width="50%"/>
