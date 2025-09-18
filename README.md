@@ -46,7 +46,7 @@
 📊 ***GitHub Stats***
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffineCipher-0&layout=compact&theme=radical" />
+<a href="https://github.com/lowlighter/metrics">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffineCipher-0&langs_count=10&theme=radical&layout=compact" />
 </a>
 </p>
