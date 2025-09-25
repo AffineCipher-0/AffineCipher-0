@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  <i>"Please don’t see just a boy caught up in dreams and fantasies..."<br>
+  <i>"Look, if you had one shot or one opportunity
+To seize everything you ever wanted in one moment
+Would you capture it or just let it slip?"<br>
   "We are all lost stars, trying to light up the dark." ✨</i><br>
-  <b>Lost Stars by Adam Levine</b>
+  <b>Lose Yourself by Eminem</b>
 </p>
 
 <p align="center">
