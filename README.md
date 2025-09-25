@@ -9,8 +9,7 @@
 <p align="center">
   <i>"Look, if you had one shot or one opportunity
 To seize everything you ever wanted in one moment
-Would you capture it or just let it slip?"<br>
-  "We are all lost stars, trying to light up the dark." ✨</i><br>
+Would you capture it or just let it slip?"<br></i><br>
   <b>Lose Yourself by Eminem</b>
 </p>
 
