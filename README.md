@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AffineCipher-0/AffineCipher-0/main/mygif.gif" width="50%"/>
-</p>
-
-<p align="center">
   <i>"Look, if you had one shot or one opportunity
 To seize everything you ever wanted in one moment
 Would you capture it or just let it slip?"<br></i>
